@@ -1,0 +1,1 @@
+java -jar AspireM5.jar %1
